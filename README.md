@@ -29,6 +29,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
+![image](https://github.com/AVINASH05T/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151514286/beb5f9a3-f59e-48cd-905b-e03c68fe87fa)
 
 
 ### Name:AVINASH T
